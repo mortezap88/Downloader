@@ -1,0 +1,6 @@
+{
+  "name": "TorStream",
+  "description": "Minimalistic torrent video online streamer with instant sequential playback and live swarm telemetry",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
